@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SISFACT", "SISFACT\SISFACT.csproj", "{54FCAFD1-17F7-442B-8967-3941BF3FFAAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54FCAFD1-17F7-442B-8967-3941BF3FFAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54FCAFD1-17F7-442B-8967-3941BF3FFAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54FCAFD1-17F7-442B-8967-3941BF3FFAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54FCAFD1-17F7-442B-8967-3941BF3FFAAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
