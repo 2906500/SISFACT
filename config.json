@@ -1,0 +1,6 @@
+﻿{
+  "empresa": "LOS CLAVOS DE CRISTO",
+  "cif": "B00121109",
+  "iva": 21,
+  "cadenaConexion": "Data Source=bbdd/sisfact.db"
+}
