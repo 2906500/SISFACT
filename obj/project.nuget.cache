@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MW+3cGBo/lc=",
+  "dgSpecHash": "AUUL7vEMyEQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\josum\\OneDrive\\Escritorio\\SISFACT\\SISFACT\\SISFACT.csproj",
+  "projectFilePath": "C:\\Users\\josum\\OneDrive\\Escritorio\\trabajo\\SISFACT\\SISFACT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josum\\.nuget\\packages\\microsoft.data.sqlite\\11.0.0-preview.3.26207.106\\microsoft.data.sqlite.11.0.0-preview.3.26207.106.nupkg.sha512",
     "C:\\Users\\josum\\.nuget\\packages\\microsoft.data.sqlite.core\\11.0.0-preview.3.26207.106\\microsoft.data.sqlite.core.11.0.0-preview.3.26207.106.nupkg.sha512",

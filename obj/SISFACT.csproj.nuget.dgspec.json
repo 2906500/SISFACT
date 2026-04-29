@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josum\\OneDrive\\Escritorio\\SISFACT\\SISFACT\\SISFACT.csproj": {}
+    "C:\\Users\\josum\\OneDrive\\Escritorio\\trabajo\\SISFACT\\SISFACT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josum\\OneDrive\\Escritorio\\SISFACT\\SISFACT\\SISFACT.csproj": {
+    "C:\\Users\\josum\\OneDrive\\Escritorio\\trabajo\\SISFACT\\SISFACT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josum\\OneDrive\\Escritorio\\SISFACT\\SISFACT\\SISFACT.csproj",
+        "projectUniqueName": "C:\\Users\\josum\\OneDrive\\Escritorio\\trabajo\\SISFACT\\SISFACT.csproj",
         "projectName": "SISFACT",
-        "projectPath": "C:\\Users\\josum\\OneDrive\\Escritorio\\SISFACT\\SISFACT\\SISFACT.csproj",
+        "projectPath": "C:\\Users\\josum\\OneDrive\\Escritorio\\trabajo\\SISFACT\\SISFACT.csproj",
         "packagesPath": "C:\\Users\\josum\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josum\\OneDrive\\Escritorio\\SISFACT\\SISFACT\\obj\\",
+        "outputPath": "C:\\Users\\josum\\OneDrive\\Escritorio\\trabajo\\SISFACT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josum\\AppData\\Roaming\\NuGet\\NuGet.Config"
